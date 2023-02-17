@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1676652012068,
+  "timestamp": 1676652594845,
   "index": "https://MoneyStats.github.io/App/index.html",
   "assetGroups": [
     {
@@ -286,7 +286,7 @@
     "https://MoneyStats.github.io/App/favicon.ico": "7825ca949617dccf492ad32159ce6f8636b8da2c",
     "https://MoneyStats.github.io/App/favicon_trasparent.png": "56042d33dd3c4c9dcd0d79ef1f4b703ffb9393e8",
     "https://MoneyStats.github.io/App/index.html": "0c532591af62c79479a89302bf24373c980dfdbd",
-    "https://MoneyStats.github.io/App/main.js": "ef0c13ee885bb69bb2b20682010c8e6b2b674d12",
+    "https://MoneyStats.github.io/App/main.js": "1246d9c46a20550a1b5bc9fbc0037412fb837f8a",
     "https://MoneyStats.github.io/App/manifest.webmanifest": "a8b0355cdb292efa593f46d0593b1bae25a368c1",
     "https://MoneyStats.github.io/App/polyfills-core-js.js": "ecff539cb5d9d9e19b83c18824effe83f508c8b6",
     "https://MoneyStats.github.io/App/polyfills-dom.js": "ca63841e70c20774cb94e861ca9baffacc06609c",
