@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1677001283588,
+  "timestamp": 1677084352108,
   "index": "https://MoneyStats.github.io/App/index.html",
   "assetGroups": [
     {
@@ -224,14 +224,14 @@
     "https://MoneyStats.github.io/App/assets/core/data/constant/swal.icon.ts": "2e74d90d0d9f5796685561b4a3f59ea8d1a0f803",
     "https://MoneyStats.github.io/App/assets/core/data/interfaces/dashboard.interface.ts": "b316514c7ca04908164de542729f749a30bee0b4",
     "https://MoneyStats.github.io/App/assets/core/data/interfaces/user.interface.ts": "cd44150575bd50eb1644576b7be7953f64da2e39",
-    "https://MoneyStats.github.io/App/assets/core/interceptors/error.inteceptor.ts": "9321614dae9cdad582a053972468e2b599b979c4",
+    "https://MoneyStats.github.io/App/assets/core/interceptors/error.inteceptor.ts": "9a71e4be446eac171e5d9df9e65642e19d02a768",
     "https://MoneyStats.github.io/App/assets/core/interceptors/error.service.ts": "37d21e1ad9d519b4dc8ccd18d25dce40a5d9dd59",
     "https://MoneyStats.github.io/App/assets/core/interceptors/loader.interceptor.ts": "840929a36f67ce7df33df417dcc53a4d0aa617d1",
     "https://MoneyStats.github.io/App/assets/core/interceptors/loader.service.ts": "237c98476e3a7a1ba5b72f3a18742d31c3499d6c",
     "https://MoneyStats.github.io/App/assets/core/mock/category.mock.json": "134777332a810b3d8a8185130413fb1ce080d21f",
     "https://MoneyStats.github.io/App/assets/core/mock/dashboard.mock.json": "2866a8e64f8045e5136d15b9539810f7a801ce3e",
     "https://MoneyStats.github.io/App/assets/core/mock/stats.mock.json": "406546047f45b5ef591f7441b3ed31d4ee32a209",
-    "https://MoneyStats.github.io/App/assets/core/mock/user.mock.json": "b1ef8cbdbadac1ca5807ede40486148063024dcd",
+    "https://MoneyStats.github.io/App/assets/core/mock/user.mock.json": "d5223898fb995c961c88ef60b6959a9ac2850d53",
     "https://MoneyStats.github.io/App/assets/core/mock/wallets.mock.json": "7d6a9da2445c7aee5316e639bbc7680fc654ba64",
     "https://MoneyStats.github.io/App/assets/core/services/dashboard.service.ts": "ca9a00169acc9498e42385828494b7782c81cbeb",
     "https://MoneyStats.github.io/App/assets/core/services/stats.service.ts": "29b4e0cf09ed9b38f067a6b1bea1d7eb5d90a0d4",
@@ -286,7 +286,7 @@
     "https://MoneyStats.github.io/App/favicon.ico": "7825ca949617dccf492ad32159ce6f8636b8da2c",
     "https://MoneyStats.github.io/App/favicon_trasparent.png": "56042d33dd3c4c9dcd0d79ef1f4b703ffb9393e8",
     "https://MoneyStats.github.io/App/index.html": "0c532591af62c79479a89302bf24373c980dfdbd",
-    "https://MoneyStats.github.io/App/main.js": "f35785972004ce394e88695ecec7d5e61fa55cc3",
+    "https://MoneyStats.github.io/App/main.js": "7b76348c5617280ac7029f34490159fd0380deb6",
     "https://MoneyStats.github.io/App/manifest.webmanifest": "a8b0355cdb292efa593f46d0593b1bae25a368c1",
     "https://MoneyStats.github.io/App/polyfills-core-js.js": "ecff539cb5d9d9e19b83c18824effe83f508c8b6",
     "https://MoneyStats.github.io/App/polyfills-dom.js": "ca63841e70c20774cb94e861ca9baffacc06609c",
