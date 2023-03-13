@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1678706124214,
+  "timestamp": 1678723526264,
   "index": "https://MoneyStats.github.io/App/index.html",
   "assetGroups": [
     {
@@ -225,7 +225,7 @@
     "https://MoneyStats.github.io/App/assets/core/data/interfaces/dashboard.interface.ts": "b316514c7ca04908164de542729f749a30bee0b4",
     "https://MoneyStats.github.io/App/assets/core/data/interfaces/user.interface.ts": "cd44150575bd50eb1644576b7be7953f64da2e39",
     "https://MoneyStats.github.io/App/assets/core/interceptors/error.inteceptor.ts": "abca496b3ba436247ac739fe40bbd8feae328747",
-    "https://MoneyStats.github.io/App/assets/core/interceptors/error.service.ts": "80a4396915deb669ea8ad3f92302646dbbcca0d8",
+    "https://MoneyStats.github.io/App/assets/core/interceptors/error.service.ts": "6a2cc82cdb663fbb52a808049d408c611d553496",
     "https://MoneyStats.github.io/App/assets/core/interceptors/loader.interceptor.ts": "840929a36f67ce7df33df417dcc53a4d0aa617d1",
     "https://MoneyStats.github.io/App/assets/core/interceptors/loader.service.ts": "237c98476e3a7a1ba5b72f3a18742d31c3499d6c",
     "https://MoneyStats.github.io/App/assets/core/mock/category.mock.json": "134777332a810b3d8a8185130413fb1ce080d21f",
@@ -286,7 +286,7 @@
     "https://MoneyStats.github.io/App/favicon.ico": "7825ca949617dccf492ad32159ce6f8636b8da2c",
     "https://MoneyStats.github.io/App/favicon_trasparent.png": "56042d33dd3c4c9dcd0d79ef1f4b703ffb9393e8",
     "https://MoneyStats.github.io/App/index.html": "6727f5c90dcefa7605a1c1b70b8647ea4e8da416",
-    "https://MoneyStats.github.io/App/main.js": "4b58702406f9e6a7261083824d57b72177c6c32d",
+    "https://MoneyStats.github.io/App/main.js": "8c310cecc2775b0e3c239465abda121178737165",
     "https://MoneyStats.github.io/App/manifest.webmanifest": "a8b0355cdb292efa593f46d0593b1bae25a368c1",
     "https://MoneyStats.github.io/App/polyfills-core-js.js": "ecff539cb5d9d9e19b83c18824effe83f508c8b6",
     "https://MoneyStats.github.io/App/polyfills-dom.js": "ca63841e70c20774cb94e861ca9baffacc06609c",
